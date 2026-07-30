@@ -108,7 +108,7 @@
     <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-4 md:gap-6">
 
       <!-- 1. 麻痺 -->
-      <a href="kaigo_kihon.html?topic=mahi" class="pop-card p-5 flex flex-col items-center text-center group decoration-none">
+      <a href="https://tktora-tigers.github.io/seikatusienn.sub/" class="pop-card p-5 flex flex-col items-center text-center group decoration-none">
         <div class="w-14 h-14 bg-red-100 text-red-600 rounded-2xl flex items-center justify-center text-2xl mb-3 group-hover:scale-110 transition-transform">
           <i class="fa-solid fa-wheelchair"></i>
         </div>
