@@ -77,7 +77,7 @@
   <header class="bg-white border-b-2 border-slate-200 sticky top-0 z-10 shadow-sm">
     <div class="max-w-5xl mx-auto px-4 py-4 flex items-center justify-between">
       <!-- トップページへ戻るボタン（確実に遷移する仕様） -->
-      <a href="index.html" onclick="event.stopPropagation(); window.location.href='index.html'; return false;" target="_self" class="btn-back px-4 py-2 text-slate-700 font-bold text-sm inline-flex items-center gap-2 decoration-none">
+      <a href="https://tktora-tigers.github.io/kaifuku-home/" onclick="event.stopPropagation(); window.location.href='index.html'; return false;" target="_self" class="btn-back px-4 py-2 text-slate-700 font-bold text-sm inline-flex items-center gap-2 decoration-none">
         <i class="fa-solid fa-arrow-left text-slate-500"></i>
         <span><ruby>単元一覧<rt>たんげんいちらん</rt></ruby>へ<ruby>戻<rt>もど</rt></ruby>る</span>
       </a>
@@ -267,7 +267,7 @@
 
     <!-- ページ下部の補足ボタン -->
     <div class="mt-12 text-center">
-      <a href="index.html" onclick="event.stopPropagation(); window.location.href='index.html'; return false;" target="_self" class="inline-flex items-center gap-2 text-slate-500 hover:text-slate-800 font-bold text-sm underline underline-offset-4 decoration-2 transition-colors">
+      <a href="https://tktora-tigers.github.io/kaifuku-home/" onclick="event.stopPropagation(); window.location.href='index.html'; return false;" target="_self" class="inline-flex items-center gap-2 text-slate-500 hover:text-slate-800 font-bold text-sm underline underline-offset-4 decoration-2 transition-colors">
         <i class="fa-solid fa-house"></i>
         <span>トップページ（<ruby>単元一覧<rt>たんげんいちらん</rt></ruby>）へ<ruby>戻<rt>もdo</rt></ruby>る</span>
       </a>
